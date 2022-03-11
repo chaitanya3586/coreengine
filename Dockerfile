@@ -1,1 +1,3 @@
-FROM Ubuntuw
+FROM Ubuntu
+apt install
+
